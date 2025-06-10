@@ -10843,7 +10843,7 @@ p {
   font-size: 2.5rem;
   margin-top: 0;
   margin-bottom: 1rem;
-  color: #e55039;
+  color: #670e00;
 }
 .page-section h3.section-subheading, .page-section .section-subheading.h3 {
   font-size: 1rem;
@@ -11034,7 +11034,7 @@ header.masthead .masthead-heading {
   text-align: center;
   /* background-color: rgba(255, 255, 255, 0.3); */
   text-decoration: none;
-  color: #e55039;
+  color: #670e00;
 }
 #conteudo .conteudo-item .conteudo-caption .conteudo-caption-heading {
   font-size: 1.5rem;
@@ -11363,7 +11363,7 @@ section#contact form#contactForm :-ms-input-placeholder {
 }
 
 .modal-body h2 {
-  color: #e55039;
+  color: #670e00;
 }
 
 .modal-body p {
@@ -11375,7 +11375,7 @@ section#contact form#contactForm :-ms-input-placeholder {
 }
 
 #time h2, h4 {
-  color: #e55039;
+  color: #670e00;
 }
 
 #time p {
@@ -11383,7 +11383,7 @@ section#contact form#contactForm :-ms-input-placeholder {
 }
 
 #quem-sou {
-  color: #e55039;
+  color: #670e00;
 }
 
 #quem-sou p {
